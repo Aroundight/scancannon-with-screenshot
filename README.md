@@ -1,2 +1,1 @@
-# scancannon-with-screenshot
-scancannon with screenshot
+sudo sh install.sh
